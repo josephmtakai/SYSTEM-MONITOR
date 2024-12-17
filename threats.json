@@ -1,0 +1,5 @@
+[
+    {"indicator": "error", "description": "System Error Detected", "isCritical": true},
+    {"indicator": "failed login", "description": "Unauthorized Login Attempt", "isCritical": false},
+    {"indicator": "warning", "description": "General Warning", "isCritical": false}
+]
